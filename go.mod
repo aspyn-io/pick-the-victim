@@ -1,4 +1,4 @@
-module randpicker
+module pick-the-victim
 
 go 1.25.10
 
